@@ -86,4 +86,4 @@ I fully expect project stewards, users, and distributors of public software proj
 
 ## Signature
 
-Signed: /{{{name}}}/
+Signed: /Olle Jonsson/
